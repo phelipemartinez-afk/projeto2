@@ -11,3 +11,6 @@ img {
     width: 488px;
     height: 2250px;
 }
+.inline {
+    display: inline;
+}
