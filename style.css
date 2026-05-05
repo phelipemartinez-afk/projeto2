@@ -9,9 +9,9 @@ strong{
 
 img {
     width: 488px;
-    height: 600px;
+    height: 550px;
 }
-.inline {
+main {
     display: flex;
 }
 
